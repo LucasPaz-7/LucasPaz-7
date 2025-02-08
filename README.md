@@ -89,6 +89,15 @@ Me chamo Lucas, tenho 15 anos, e estou estudando programação em casa pela inte
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"       
 />
 
+<img 
+    align="left" 
+    alt="php" 
+    title="php"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"       
+/>
+
 <br/>
 <br/>
 
